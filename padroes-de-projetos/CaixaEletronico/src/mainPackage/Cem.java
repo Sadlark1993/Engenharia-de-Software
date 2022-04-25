@@ -17,6 +17,6 @@ public class Cem {
             map1.putAll(map);
             return aux + " notas de R$100\n";
         }
-        return aux + " notas de  R$100, "+ Cinquenta.executar(valor, map, map1);
+        return aux + " notas de R$100, "+ Cinquenta.executar(valor, map, map1);
     }
 }

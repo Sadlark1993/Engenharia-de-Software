@@ -18,6 +18,6 @@ public class Vinte {
             map1.putAll(map);
             return aux + " notas de R$20\n";
         }
-        return aux + " notas de  R$20, "+ Dez.executar(valor, map, map1);
+        return aux + " notas de R$20, "+ Dez.executar(valor, map, map1);
     }
 }

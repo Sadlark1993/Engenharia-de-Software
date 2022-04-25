@@ -17,6 +17,6 @@ public class Dez {
             throw new Exception("Erro. Notas insuficientes. Faltou "+valor+"\n");
         }
         map1.putAll(map);
-        return aux + " notas de  R$10.\n";
+        return aux + " notas de R$10.\n";
     }
 }

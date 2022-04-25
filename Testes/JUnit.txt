@@ -1,0 +1,8 @@
+//verify if the statement is false
+Assertions.assertFalse(someFalseStatement);
+
+//verify if the objects are equals
+Assertions.assertEquals(object1, object2);
+
+//verify if the statement is true
+Assertions.assertTrue(someTrueStatement);

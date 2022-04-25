@@ -17,6 +17,6 @@ public class Cinquenta {
             map1.putAll(map);
             return aux + " notas de R$50\n";
         }
-        return aux + " notas de  R$50, "+ Vinte.executar(valor, map, map1);
+        return aux + " notas de R$50, "+ Vinte.executar(valor, map, map1);
     }
 }
